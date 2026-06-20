@@ -1,15 +1,31 @@
 {
+  "headline": "오늘 동네 최저가",
+
   "badge": "오늘만",
-  "limit": "8개 한정",
 
-  "productName": "씨암닭 특란 30구",
+  "limit": {
+    "count": 15,
+    "text": "15개 한정"
+  },
 
-  "salePrice": "6,980원",
-  "originalPrice": "10,200원",
-  "discount": "32%",
+  "product": {
+    "name": "국내산 삼겹살 100g"
+  },
 
-  "shopName": "오산마트 세교점",
-  "distance": "2.1km",
+  "price": {
+    "sale": "1,290원",
+    "original": "1,980원",
+    "discount": "35%"
+  },
+
+  "shop": {
+    "name": "하나로마트",
+    "distance": "1.4km"
+  },
+
+  "button": {
+    "text": "방문하기"
+  },
 
   "imageUrl": "https://raw.githubusercontent.com/rkdgksanr-cmyk/hotdeal/main/hotdeal.jpg"
 }
